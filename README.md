@@ -3,7 +3,7 @@ Welcome to the TDS Virtual TA project! This is a powerful, modern API designed t
 
 ---
 ### 🚀 Live Demo
-- API Endpoint: https://tds-virtual-ta-uq32.onrender.com/api/
+- API Endpoint: https://tds-virtual-ta-71rd.onrender.com/api/
 
 ---
 
